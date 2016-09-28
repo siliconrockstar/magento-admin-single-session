@@ -1,0 +1,7 @@
+Siliconrockstar Adminsinglesession
+
+Prevents each admin account from having more than one session going at
+a time. Useful to prevent admin users from sharing credentials, which
+destroys accountability. Original session is automatically logged out
+and redirected to the admin login page when a new session is created 
+with the same creds.

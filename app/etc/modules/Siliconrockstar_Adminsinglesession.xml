@@ -1,0 +1,9 @@
+<config>
+    <modules>
+        <Siliconrockstar_Adminsinglesession>
+            <active>true</active>
+            <codePool>community</codePool>
+            <version>0.9.0.0</version>
+        </Siliconrockstar_Adminsinglesession>
+    </modules>
+</config>
