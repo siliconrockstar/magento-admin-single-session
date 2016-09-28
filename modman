@@ -1,0 +1,8 @@
+app/code/community/Siliconrockstar/Adminsinglesession/Model/Key.php app/code/community/Siliconrockstar/Adminsinglesession/Model/Key.php
+app/code/community/Siliconrockstar/Adminsinglesession/Model/Observer.php app/code/community/Siliconrockstar/Adminsinglesession/Model/Observer.php
+app/code/community/Siliconrockstar/Adminsinglesession/Model/Resource/Key.php app/code/community/Siliconrockstar/Adminsinglesession/Model/Resource/Key.php
+app/code/community/Siliconrockstar/Adminsinglesession/Model/Resource/Key/Collection.php app/code/community/Siliconrockstar/Adminsinglesession/Model/Resource/Key/Collection.php
+app/code/community/Siliconrockstar/Adminsinglesession/Model/Session.php app/code/community/Siliconrockstar/Adminsinglesession/Model/Session.php
+app/code/community/Siliconrockstar/Adminsinglesession/etc/config.xml app/code/community/Siliconrockstar/Adminsinglesession/etc/config.xml
+app/code/community/Siliconrockstar/Adminsinglesession/sql/siliconrockstar_adminsinglesession_setup/install-0.9.0.0.php app/code/community/Siliconrockstar/Adminsinglesession/sql/siliconrockstar_adminsinglesession_setup/install-0.9.0.0.php
+app/etc/modules/Siliconrockstar_Adminsinglesession.xml app/etc/modules/Siliconrockstar_Adminsinglesession.xml
